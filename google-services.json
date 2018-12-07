@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67846339869",
+    "firebase_url": "https://fcmpushnotifs.firebaseio.com",
+    "project_id": "fcmpushnotifs",
+    "storage_bucket": "fcmpushnotifs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67846339869:android:58c5041d0b23a88b",
+        "android_client_info": {
+          "package_name": "com.test.FCMPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67846339869-9enl3frk57bphi52pgvvns28d2jvscpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8KTrKwmlkybPAcDwCPvQFJGFsCDMT500"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
